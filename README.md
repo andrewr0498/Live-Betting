@@ -18,8 +18,8 @@ Collecting the data for this project is going to be an incredibly complex part o
 
 * [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
-* [APIs](https://en.wikipedia.org/wiki/Application_programming_interface), specifically the one above
-  * [JsonOdds](https://jsonodds.com/home/)
+* [APIs](https://en.wikipedia.org/wiki/Application_programming_interface)
+  * [JsonOdds](https://jsonodds.com/home/) (the one above)
   * [Fantasy Data](https://fantasydata.com/sports-data/nba-api)
 * More to come
 
