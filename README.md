@@ -27,13 +27,13 @@ Collecting the data for this project is going to be an incredibly complex part o
 
 Ideally we can get data in a format like the table I made up below. For any given NBA game, an entry should be added to our dataset whenever the moneyline changes in game.
 
-This is slightly optimistic since I don't expect a change to the moneyline to occur at the exact same time as a play occurs, but if we have the UTC timing of each then I think we could look into the impact of certain plays in certain situtations on the moneyline.
+This is slightly optimistic since I don't expect a change in the moneyline to occur at the exact same time as a play occurs, but if we have the UTC timing of each then I think we could look into the impact of certain plays in certain situtations on the moneyline. I haven't followed moneylines close enough, but I think that they sometimes change without any play happening, so there could be entries in our dataset without a play description.
 
-|Date/Time|HomeTeam|AwayTeam|Favorite|Underdog|HomeTeamFavorite|PlayDescription|
-|---|---|---|---|---|---|---|
-|2018-11-22 19:53:42|Warriors|Lakers|-303|+157|True|Steph Curry makes...|
-|2018-11-22 19:53:55|Warriors|Lakers|-320|+166|True|Lebron James turnover...|
-|2018-11-22 19:57:22|Warriors|Lakers|-315|+161|True|Draymond Green misses...|
+|Date/Time|HomeTeam|AwayTeam|Favorite|Underdog|HomeTeamFavorite|HomeScore|AwayScore|GameClock|Quarter|PlayDescription|
+|---|---|---|---|---|---|---|---|---|---|---|
+|2018-11-22 19:53:42|Warriors|Lakers|-303|+157|True|78|66|7:55|3|Steph Curry makes...|
+|2018-11-22 19:53:55|Warriors|Lakers|-320|+166|True|78|66|7:50|3|Lebron James turnover...|
+|2018-11-22 19:54:22|Warriors|Lakers|-315|+161|True|78|66|7:32|3|Draymond Green misses...|
 
 ### Meetings
 
