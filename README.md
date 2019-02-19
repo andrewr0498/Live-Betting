@@ -13,6 +13,8 @@ Collecting the data for this project is going to be an incredibly complex part o
 * [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 * [APIs](https://en.wikipedia.org/wiki/Application_programming_interface), specifically the one above
+  * [JsonOdds](https://jsonodds.com/home/)
+  * [Fantasy Data](https://fantasydata.com/sports-data/nba-api)
 * More to come
 
 It is very important for all of us to meet on a weekly basis (preferably at the same time every week) to make sure that we are all on the same page and know what our tasks for the week are, please fill out [this](https://www.when2meet.com/?7553455-poVDL) form ASAP so that we can determine our weekly meeting time.
