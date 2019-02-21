@@ -20,6 +20,9 @@ Collecting the data for this project is going to be an incredibly complex part o
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
   * to start it wouldn't be too hard to just use BeautifulSoup to scrape Bovada like every second for an NBA  game that is going on
   * The problem with this is we would literally just have to have a py file or jupyter cell that runs continuously over the course of a NBA game which is just kind of a pain in the ass
+  * I guess this would be a good way to start making an initial dataset since we can write it to a csv
+  * But we wouldn't have any historical data, we would only have data for the times this spring that we decide to run the code
+  * And idk how fast the BeautifulSoup requests will be. It's possible they'd be too slow and would miss some changes to the moneylines
 * [APIs](https://en.wikipedia.org/wiki/Application_programming_interface)
   * [JsonOdds](https://jsonodds.com/home/) (the one above)
   * [Fantasy Data](https://fantasydata.com/sports-data/nba-api)
