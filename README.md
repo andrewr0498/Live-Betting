@@ -21,6 +21,7 @@ Collecting the data for this project is going to be an incredibly complex part o
 * [APIs](https://en.wikipedia.org/wiki/Application_programming_interface)
   * [JsonOdds](https://jsonodds.com/home/) (the one above)
   * [Fantasy Data](https://fantasydata.com/sports-data/nba-api)
+  * [Don Best](https://pypi.org/project/donbest/) this one looks promising
 * More to come
 
 ### The data we want
