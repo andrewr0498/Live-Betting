@@ -28,6 +28,7 @@ Collecting the data for this project is going to be an incredibly complex part o
   * [Fantasy Data](https://fantasydata.com/sports-data/nba-api)
   * [Don Best](https://pypi.org/project/donbest/) this one looks promising
   * shit. it looks like all of these cost money
+  * Calvin found [this one](https://github.com/pinnacleapi/pinnacleapi-documentation), looks pretty good
  * [Web scraper](https://github.com/ntran16/CalFootball_4thDown/blob/nate_branch/n_most_similar_games.ipynb) I made from last semester for reference
 * More to come
 
