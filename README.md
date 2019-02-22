@@ -49,4 +49,6 @@ It is very important for all of us to meet on a weekly basis (preferably at the 
 
 ### Questions for Daniel
 
-1. Were you thinking of only using moneyline? Or did you want spread too? What did you want to do with win probability?
+1. First off, is the fake dataset above what you had in mind? Is there something else you'd want to add?
+
+2. Were you thinking of only using moneyline? Or did you want spread too? What did you want to do with win probability?
