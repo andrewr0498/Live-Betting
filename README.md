@@ -28,6 +28,8 @@ Collecting the data for this project is going to be an incredibly complex part o
   * [Fantasy Data](https://fantasydata.com/sports-data/nba-api)
   * [Don Best](https://pypi.org/project/donbest/) this one looks promising
   * shit. it looks like all of these cost money
+ * Web scraper I made from last semester for reference
+  * https://github.com/ntran16/CalFootball_4thDown/blob/nate_branch/n_most_similar_games.ipynb
 * More to come
 
 ### The data we want
@@ -45,3 +47,7 @@ This is slightly optimistic since I don't expect a change in the moneyline to oc
 ### Meetings
 
 It is very important for all of us to meet on a weekly basis (preferably at the same time every week) to make sure that we are all on the same page and know what our tasks for the week are, please fill out [this](https://www.when2meet.com/?7553455-poVDL) form ASAP so that we can determine our weekly meeting time.
+
+### Questions for Daniel
+
+1. Were you thinking of only using moneyline? Or did you want spread too?
