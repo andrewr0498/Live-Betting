@@ -29,6 +29,8 @@ Collecting the data for this project is going to be an incredibly complex part o
   * [Don Best](https://pypi.org/project/donbest/) this one looks promising
   * shit. it looks like all of these cost money
   * Calvin found [this one](https://github.com/pinnacleapi/pinnacleapi-documentation), looks pretty good
+  * Haoran found [this one](https://therundown.io/odds/nba)
+   * if you click on a game they even have graphs of how the moneyline changes during the course of the game
  * [Web scraper](https://github.com/ntran16/CalFootball_4thDown/blob/nate_branch/n_most_similar_games.ipynb) I made from last semester for reference
 * More to come
 
